@@ -2,9 +2,10 @@
 layout: post
 title:  "Karl Marx Profile and Media Studies"
 date:   2014-12-14
-image: karl.jpg
 ---
-
+<figure>
+<img src="http://media.salon.com/2014/04/karl_marx.jpg" alt="">
+</figure>
 <p class="intro"><span class="dropcap">K</span>arl Marx was born on 5 May 1818 in the kingdom of prussia. Marx was ancestrally Jewish. Karl's father, as a child known as Herschel, was the first in the line to receive a secular education. In October 1835 at the age of 17, Marx travelled to the University of Bonn wishing to study philosophy and literature; however, his father insisted on law as a more practical field. After going to the university, Karl Marx became interested in society, economics, and politics. His theories on these subjects are collectively understood as Marxism. His most famous work is the 1848 pamphlet <i>The Communist Manifesto</i></p>
 
 
