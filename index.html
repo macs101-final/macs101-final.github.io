@@ -4,11 +4,11 @@ title: Long Haul
 ---
 
 <div class="home" id="home">
+  <h3>Hello people! Welcome to our Blog. As the title suggests, we are trying to make the process of understanding political economic aspects in media easier.</h3>
   <h1 class="pageTitle">Recent Posts</h1>
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
-        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
       </li>

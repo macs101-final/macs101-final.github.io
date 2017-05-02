@@ -1,22 +1,37 @@
 ---
 layout: post
-title:  "Post With A Code Snippet"
+title:  "Basic Elements of Contemporary Political Economic Analysis"
 date:   2014-12-13
 ---
 
-<p class="intro"><span class="dropcap">Y</span>ou'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes! To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</p>
+<p class="intro"><span class="dropcap">W</span>hen Marx was still alive is was definitely easier to recognize and observe the process of commodification. Today, most of the products and services society uses comes to us as commodities. Because of this it is hard for people to imagine anything but the current system of commodification and the current way of doing things.</p>
 
-Jekyll also offers powerful support for code snippets:
+Three Basic Elements of Contemporary Political Econoic Analysis are:
+<ul>
+<li>Commodification</li>
+<li>Spatialization</li>
+<li>Structuration</li>
+</ul>
+<img src="https://etext.illinois.edu/epubs/978-0-9897819-1-6-2/images/chap004fig003a.png" alt="">
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Commodification refers to the process making something into a good that can be bought or sold.
+<p></p>
+<img src="http://www.marketing91.com/wp-content/uploads/2016/02/Commodification.jpg" alt="">
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+Spatialization structures the process of commodification. Access to media is unevenly distributed in relation to the categories listed and the inequality is somewhat determined by the political and economic systems.
+<blockquote>Commodification examples include sex, celebrities lives/reality tv, what is posted on social media can be commodified</blockquote>
+<img src="https://budweiserforthewin.files.wordpress.com/2012/05/sexy_budweiser_ad_20100913_17777202861.jpg" alt="">
+Political economic analysis deals with questions of representation and access to media networks. By looking and studying these three elements, people can identify the ways government and businesses determine who has access to technology, who is represented, and the effects on society as a whole
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+## Definition List
+<dl>
+  <dt>Commodification</dt>
+  <dd>Process making something into a good that can be bought or sold</dd>
+  <dt>Spatialization</dt>
+<dd>
+Process of overcoming the constraints of geographical space with, among other things, mass media and communication technologies
+  </dd>
+<dt>Structuration</dt>
+<dd>Process of creating social relations, mainly those organized around markers of difference such as class, gender, race, sexual orientation, age, and geography</dd>
+
+  </dl>

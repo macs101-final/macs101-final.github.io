@@ -1,30 +1,31 @@
 ---
 layout: post
-title:  "Figure With A Caption"
+title:  "Ownership, Concentration, Integration, and Neoliberalism"
 date:   2014-12-12
 ---
 
 
-<p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
+<p class="intro"><span class="dropcap">P</span>olitical economic analysis of the media is especially concerned with issues of ownership and control. In theory competition in the marketplace is what makes the markets thrive because the best companies with shine through. </p>
 
-Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.
-
+Capitalists,look to minimize the rest of the competition to increase profits. The tendency for a small group of companies, or firms, to consolidate control over a particular segment of the market by is referred to as concentration.
 <figure>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<figcaption>Fig1. - This is an example figcaption</figcaption>
+	<img src="https://godcircumvented.files.wordpress.com/2012/11/untitled.jpg" alt=""> 
 </figure>
+Concentration happens when a boom in one company pushes out all competition and forces other companies to by into the larger company to stay around
 
-{% highlight html %}
-<figure>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<figcaption>Fig1. - This is an example figcaption</figcaption>
-</figure>
-{% endhighlight %}
+<dl>
 
-Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.
+<dt>Here is a Noam Chomsky interview on Manufactoring Consent. It explains the relationship of ownership and concentration. We could also see Marx's idea of classes in society</dt>
+  <dd> <iframe width="560" height="315" src="https://www.youtube.com/embed/tTBWfkE7BXU?ecver=1" frameborder="0" allowfullscreen></iframe>
+</dd>
+</dl>
+## Definition List
+<dl>
+  <dt>Concentration</dt>
+  <dd> The tendency for a small group of companies, or firms, to consolidate control over a particular segment of the market by </dd>
 
-Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.
 
-Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.
+  </dl>
 
-Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.
+
+

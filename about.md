@@ -4,21 +4,17 @@ title: About Long Haul
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<h1 class="pageTitle">About This Blog</h1>
+    <figure>
+	<img src="https://vancitysportrants.files.wordpress.com/2013/03/images.jpeg" alt="">
+    </figure>
+	<p class="intro"> This blog is created as the final submission of MACS 101 Final digital project. Our mission is to create an easy way for audience to understand the complicated realm of political economics in media.</p>
+	<p>Using different forms of media (text, images and videos), we will try to demystify different aspects of political economics in media. The aim is to create bite-size contents that are easily digestable</p>
+	<h2>Members</h2>
 	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+		<li>Stefanus Hinardi</li>
+  		<li>Kyle Langenderfer</li>
+  		<li>Michael Lang</li>
+  		<li>Timothy Krock</li>
   	</ul>
 </div>
