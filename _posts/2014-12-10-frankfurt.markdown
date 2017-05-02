@@ -12,15 +12,9 @@ date:   2014-12-14
   <dd> <iframe width="560" height="315" src="https://www.youtube.com/embed/B8yhRMIYqDk?ecver=1" frameborder="0" allowfullscreen></iframe></dd>
 </dl>
 
-Markx and other members of Franfurt School were concerned about the use of mass communication technology in distributing media content.
+Markx and members of Franfurt School were concerned about the use of mass communication technology in distributing media content. This is referred to as Culture Industry. They feared that this would lead to a distorted and dangerous approach of social control. where the capitalist class control the production of media and dissemination of information. However, this idea is not widely adopted due to the fact that technology empowers artists to produce and distribute their content idependently. 
 
-They refer this process as Culture Industry.
-
-They were afraid that this technology/process would lead to a distorted and dangerous approach of social control. Again, this refers to the idea of having the capitalist class controls and owns the production of media/information.
-
-However, this idea is not well adopted due to the fact that technology actually empowers artists to produce and distribute their content idependently.
-
-For instance, soundcloud allows musicians to upload their content and allow millions of listeners to stream their music. This is something that was not possible before the raise of technology, especially mass communication.
+Soundcloud, for instance, allows musicians to upload their content, allowing millions of listeners to stream their music. This was not possible before the rise of technology and mass communication. 
 
 <img src="http://s2.quickmeme.com/img/99/995eda7836c3778d5be05fa69c9a9b12cff7ed6b0b231754e31bea30089b4d97.jpg" alt="">
 
