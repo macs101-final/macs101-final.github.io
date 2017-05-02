@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frankfurt School: Cultural Industries"
-date:   2014-12-13
+date:   2014-12-14
 ---
 
 <p class="intro"><span class="dropcap">I</span>n the mid-twentieth century, a group of scholars now known as The Frankfurt School drew on the ideas of Marx, among other theorists, in their social analysis.The Frankfurt School's members were especially worried that the structure of twentieth century society relied too heavily on the empirical sciences and the belief that the natural world could be completely known and mastered.</p>

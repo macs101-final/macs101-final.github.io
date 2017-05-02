@@ -1,7 +1,7 @@
-title: Demistifying Political Economy of Media
+title: Demystifying Political Economy of Media
 description: A Blog that will enlight and help you navigate in the world of media
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://macs101-final.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
